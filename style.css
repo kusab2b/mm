@@ -1,0 +1,9 @@
+.pad{
+    border: solid;
+    background-color: rgb(253, 206, 213);
+width: 550px;
+height: 550px;
+color: #FF0000;
+padding-top: 80px;
+padding-left: 103px;
+}
